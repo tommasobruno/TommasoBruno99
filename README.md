@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats-sable-eta.vercel.app/api?username=TommasoBruno99&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats-sable-eta.vercel.app/api?username=TommasoBruno99&show_icons=true&hide_border=true"/>
 
 
 [twitter]: https://twitter.com/BiyoOf
