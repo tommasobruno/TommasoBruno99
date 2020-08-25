@@ -37,14 +37,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TommasoBruno99&show_icons=true&hide_border=true&theme=dark" />
 
-  <img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TommasoBruno99&show_icons=true&hide_border=true&theme=dark" />
 
-</details>
-
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/BiyoOf
+[instagram]: https://instagram.com/tommy__
+[linkedin]: https://linkedin.com/in/TommasoBruno99
 
