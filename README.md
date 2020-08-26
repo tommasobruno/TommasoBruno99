@@ -33,11 +33,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 ---
 
-<img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats-sable-eta.vercel.app/api?username=TommasoBruno99&show_icons=true&hide_border=true&theme=dark"/>
+<img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats-sable-eta.vercel.app/api?username=TommasoBruno99&hide_border=true&theme=dark"/>
 
 
 [twitter]: https://twitter.com/BiyoOf
