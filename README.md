@@ -1,6 +1,6 @@
 ### Hi there, I'm Tommaso 👋
 
-## I'm a Student and full stack developer!
+## I'm a full stack developer!
 
 - 🔭 I’m currently working on a private project!
 - 🌱 I’m currently learning everything 🤣
