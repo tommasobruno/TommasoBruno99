@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="Tommaso's Github Stats" src="https://github-readme-stats-sable-eta.vercel.app/api?username=TommasoBruno99&hide_border=true&theme=dark"/>
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommasoBruno99&hide_border=true&theme=dark")
 
 
 [twitter]: https://twitter.com/BiyoOf
