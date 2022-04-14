@@ -34,12 +34,6 @@
 
 <br />
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommasoBruno99&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[twitter]: https://twitter.com/BiyoOf
 [instagram]: https://www.instagram.com/tommybruno__/
 [linkedin]: https://linkedin.com/in/TommasoBruno99
 
