@@ -10,4 +10,3 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
-[![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommasoBruno99&theme=dark)](https://github.com/TommasoBruno99/github-readme-stats)
